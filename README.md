@@ -10,6 +10,7 @@ Here are some of the technologies I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 ### Web Development
 
@@ -20,7 +21,7 @@ Here are some of the technologies I work with:
 
 Feel free to reach out or connect with me:
 
-- 📫 Email: [timmatt695@gamil.com](mailto:your-email@example.com)
+- 📫 Email: [klaxigon909@gmail.com](mailto:klaxigon909@gmail.com)
 
 ---
 
